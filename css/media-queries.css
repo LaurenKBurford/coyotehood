@@ -1,0 +1,633 @@
+@media screen and (min-width: 2181px) {
+    #logo-and-menu {
+        top: 102rem;
+    }
+    #right-side {
+        top: -1076px;
+        max-width: 32%;
+    }
+    #left-side {
+        top: -713px;
+        max-width: 32%;
+    }
+    #page-section {
+        min-height: 91rem;
+        top: -19rem;
+    }
+    #coyotehood-logo {
+        max-width: 75%;
+    }
+    #northern-lights {
+        top: 6rem;
+    }
+    #moose-and-trees {
+        top: -33rem;
+    }
+}
+
+@media screen and (min-width: 2001px) and (max-width: 2180px) {
+    #logo-and-menu {
+        top: 89rem;
+    }
+    #right-side {
+        top: -970px;
+        max-width: 32%;
+    }
+    #left-side {
+        top: -713px;
+        max-width: 32%;
+    }
+    #page-section {
+        min-height: 91rem;
+        top: -19rem;
+    }
+    #coyotehood-logo {
+        max-width: 75%;
+    }
+    #northern-lights {
+        top: 6rem;
+    }
+    #moose-and-trees {
+        top: -33rem;
+    }
+}
+
+@media screen and (min-width: 1951px) and (max-width: 2000px) {
+    #logo-and-menu {
+        top: 80rem;
+    }
+    #right-side {
+        top: -970px;
+        max-width: 32%;
+    }
+    #left-side {
+        top: -713px;
+        max-width: 32%;
+    }
+    #page-section {
+        min-height: 100rem;
+        top: -19rem;
+    }
+    #coyotehood-logo {
+        max-width: 75%;
+    }
+    #northern-lights {
+        top: 6rem;
+    }
+    #moose-and-trees {
+        top: -28rem;
+    }
+}
+
+@media screen and (min-width: 1801px) and (max-width: 1950px) {
+    #logo-and-menu {
+        top: 77rem;
+    }
+    #right-side {
+        top: -970px;
+    }
+    #left-side {
+        top: -666px;
+    }
+    #page-section {
+        min-height: 130rem;
+        top: -8rem;
+    }
+    #coyotehood-logo {
+        max-width: 75%;
+    }
+    #northern-lights {
+        top: 5rem;
+    }
+    #moose-and-trees {
+        top: -28rem;
+    }
+}
+
+@media screen and (min-width: 1701px) and (max-width: 1800px) {
+    #logo-and-menu {
+        top: 70rem;
+    }
+    #right-side {
+        top: -936px;
+    }
+    #left-side {
+        top: -651px;
+    }
+    #page-section {
+        min-height: 119rem;
+        top: -8rem;
+    }
+    #coyotehood-logo {
+        max-width: 75%;
+    }
+    #moose-and-trees {
+        top: -28rem;
+    }
+}
+
+@media screen and (min-width: 1681px) and (max-width: 1700px) {
+    #logo-and-menu {
+        top: 64rem;
+    }
+    #right-side {
+        top: -914px;
+    }
+    #left-side {
+        top: -651px;
+    }
+    #page-section {
+        min-height: 107rem;
+        top: -8rem;
+    }
+    #coyotehood-logo {
+        max-width: 75%;
+    }
+    #moose-and-trees {
+        top: -28rem;
+    }
+}
+
+
+@media screen and (min-width: 1581px) and (max-width: 1680px) {
+    #logo-and-menu {
+        top: 64rem;
+    }
+    #right-side {
+        top: -914px;
+    }
+    #left-side {
+        top: -651px;
+    }
+    #page-section {
+        min-height: 107rem;
+        top: -16rem;
+    }
+    #coyotehood-logo {
+        max-width: 65%;
+    }
+    #moose-and-trees {
+        top: -28rem;
+    }
+}
+
+@media screen and (min-width: 1481px) and (max-width: 1580px) {
+    #logo-and-menu {
+        top: 69rem;
+    }
+    #right-side {
+        top: -750px;
+    }
+    #page-section {
+        min-height: 97rem;
+        top: -8rem;
+    }
+}
+
+@media screen and (min-width: 1401px) and (max-width: 1480px) {
+    #logo-and-menu {
+        top: 63rem;
+    }
+    #right-side {
+        top: -738px;
+    }
+    #page-section {
+        min-height: 84rem;
+        top: -9rem;
+    }
+}
+
+@media screen and (min-width: 1300px) and (max-width: 1400px) {
+    #logo-and-menu {
+        top: 57rem;
+    }
+    #page-section {
+        top: -10rem;
+    }
+}
+
+@media screen and (max-width: 1225px) {
+    #logo-and-menu {
+        top: 49rem;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    #logo-and-menu {
+        top: 47rem;
+    }
+    #right-side {
+        top: -650px;
+        max-width: 39%;
+    }
+    #left-side {
+        top: -484px;
+        max-width: 39%;
+    }
+}
+
+@media screen and (max-width: 1155px) {
+    #logo-and-menu {
+        top: 44rem;
+    }
+    #page-section {
+        top: -15rem;
+        font-size: 17px;
+        min-height: 64rem;
+    }
+}
+
+@media screen and (max-width: 1120px) {
+    #logo-and-menu {
+        top: 42rem;
+    }
+    #page-section {
+        min-height: 55rem;
+    }
+    #logo {
+        width: 90%;
+        margin: auto;
+    }
+    #menu li a {
+        font-size: 22px;
+    }
+}
+
+@media screen and (max-width: 1070px) {
+    #logo-and-menu {
+        top: 39rem;
+    }
+    #page-section {
+        min-height: 44rem;
+    }
+    #right-side {
+        top: -633px;
+        max-width: 35%;
+    }
+    #left-side {
+        max-width: 35%;
+    }
+}
+
+@media screen and (max-width: 1030px) {
+    #logo-and-menu {
+        top: 37rem;
+    }
+    #right-side {
+        top: -609px;
+        max-width: 33%;
+    }
+    #left-side {
+        top: -471px;
+        max-width: 33%;
+    }
+    #page-section {
+        width: 67%;
+        top: -17rem;
+    }
+}
+
+@media screen and (max-width: 990px) {
+    #logo-and-menu {
+        top: 35rem;
+    }
+    #right-side {
+        top: -573px;
+        max-width: 31%;
+    }
+    #left-side {
+        top: -456px;
+        max-width: 31%;
+    }
+    #page-section {
+        min-height: 41rem;
+    }
+}
+
+@media screen and (max-width: 940px) {
+    #logo-and-menu {
+        top: 33rem;
+    }
+    #sidebar {
+        font-size: 18px;
+        line-height: 21px;
+    }
+    #menu li a {
+        font-size: 20px;
+    }
+    p {
+        font-size: 17px;
+        line-height: 23px;
+    }
+    h2 {
+    	font-size: 33px;
+    }
+    .woocommerce ul.products li.product, 
+    .woocommerce-page ul.products li.product {
+    	width: 47% !important;
+	}
+}
+
+@media screen and (max-width: 910px) {
+    #moose-and-trees {
+        top: -18rem;
+    }
+    #left-side {
+        top: -401px;
+    }
+    #right-side {
+        top: -504px;
+    }
+    #page-section {
+        top: -14rem;
+    }
+}
+
+@media screen and (max-width: 860px) {
+    #sidebar {
+        font-size: 17px;
+        line-height: 20px;
+    }
+    #logo-and-menu {
+        top: 30rem;
+    }
+}
+
+@media screen and (max-width: 815px) {
+    #logo-and-menu {
+        top: 27rem;
+    }
+    #menu li a {
+        font-size: 18px;
+    }
+    #not-found {
+    font-size: 60px;
+    }
+}
+
+@media screen and (max-width: 770px) {
+    #right-side {
+        top: -455px;
+    }
+    #left-side {
+        top: -358px;
+    }
+    #logo-and-menu {
+        top: 26rem;
+    }
+}
+
+@media screen and (max-width: 730px) {
+    #coyotehood-logo {
+        max-width: 71%;
+    }
+    #logo-and-menu {
+        top: 23rem;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    #moose-and-trees {
+        top: -14rem;
+    }
+    #logo-and-menu {
+        top: 24rem;
+    }
+    #logo {
+        width: 65%;
+    }
+    .menu-main-menu-container {
+        display: inline-flex;
+        width: 45%;
+    }
+    .menu li {
+        margin: 5px;
+    }
+    #left-side {
+        top: -325px;
+    }
+    #right-side {
+        top: -410px;
+    }
+}
+
+@media screen and (max-width: 670px) {
+    #logo-and-menu {
+        top: 22rem;
+    }
+    #page-section {
+        top: -12rem;
+    }
+    #sidebar {
+        font-size: 15px;
+    }
+    #flagImage {
+        width: 3rem;
+    }
+}
+
+@media screen and (max-width: 630px) {
+    #logo {
+        width: 100%;
+    }
+    #logo-and-menu {
+        top: 23rem;
+    }
+    #left-side {
+        top: -179px;
+    }
+    #right-side {
+        top: -257px;
+    }
+    #coyotehood-logo {
+        margin-bottom: 70px;
+    }
+    #page-section {
+        top: -3rem;
+    }
+    .menu-main-menu-container {
+        width: 59%;
+    }
+    #menu li a {
+        font-size: 23px;
+        color: #B11F24;
+    }
+    #menu li a:hover {
+        color: #58595B; 
+    }
+    #not-found {
+    font-size: 30px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    #logo-and-menu {
+        top: 21rem;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    #logo-and-menu {
+        top: 20rem;
+    }
+    #moose-and-trees {
+        top: -13rem;
+    }
+    #menu li a {
+        font-size: 25px;
+    }
+    .menu-main-menu-container {
+        width: 31%;
+    }
+    #coyotehood-logo {
+        margin-bottom: 55px;
+    }
+    #left-side {
+        top: -214px;
+    }
+    #right-side {
+        top: -283px;
+    }
+}
+
+@media screen and (max-width: 555px) {
+    #menu li a {
+        font-size: 20px;
+    }
+    .menu-main-menu-container {
+        width: 23%;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    #logo-and-menu {
+        top: 19rem;
+    }
+    #page-section {
+        top: -2rem;
+    }
+}
+
+@media screen and (max-width: 520px) {
+    #logo-and-menu {
+        top: 18rem;
+    }
+    #coyotehood-logo {
+        margin-bottom: 53px;
+    }
+    .woocommerce ul.products li.product, 
+    .woocommerce-page ul.products li.product {
+    	width: 100% !important;
+	}
+}
+
+@media screen and (max-width: 500px) {
+    #logo-and-menu {
+        top: 16rem;
+    }
+    h2 {
+    	font-size: 30px;
+    }
+    p {
+    	font-size: 17px;
+    	line-height: 23px;
+    }
+    label.wpforms-field-label {
+    	font-size: 14px !important;
+	}
+    button[type=submit] {
+    	font-size: 15px !important;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    #logo-and-menu {
+        top: 15rem;
+    }
+    #moose-and-trees {
+        top: -12rem;
+    }
+}
+
+@media screen and (max-width: 430px) {
+    #menu li a {
+        font-size: 18px;
+    }
+    #coyotehood-logo {
+        margin-bottom: 38px;
+    }
+    #left-side {
+        top: -223px;
+    }
+}
+
+@media screen and (max-width: 420px) {
+    #moose-and-trees {
+        top: -9rem;
+    }
+    #logo-and-menu {
+        top: 17rem;
+    }
+    #left-side {
+        top: -138px;
+    }
+    #right-side {
+        top: -193px;
+    }
+    #page-section {
+        top: 1rem;
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 395px) {
+    #logo-and-menu {
+        top: 16rem;
+    }
+    #sidebar {
+        font-size: 13px;
+    }
+    p {
+    	font-size: 14px;
+    	line-height: 20px;
+	}
+    h2 {
+    	font-size: 25px;
+	}
+}
+
+@media screen and (max-width: 380px) {
+    #logo-and-menu {
+        top: 15rem;
+    }
+    #left-side {
+        top: -147px;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    #logo-and-menu {
+        top: 14rem;
+    }
+}
+
+@media screen and (max-width: 340px) {
+    #logo-and-menu {
+        top: 13rem;
+    }
+}
+
+@media screen and (max-width: 330px) {
+    #logo-and-menu {
+        top: 12rem;
+    }
+    #sidebar {
+        font-size: 12px;
+    }
+    #left-side {
+        top: -152px;
+    }
+    .menu-main-menu-container {
+        width: 40%;
+    }
+}

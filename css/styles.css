@@ -1,0 +1,398 @@
+html,
+body {
+    overflow-x: hidden;
+}
+
+/* Images */
+
+#star-background,
+#running-fox {
+    width: 100%;
+}
+
+#moose-and-trees {
+    max-width: 100%;
+    position: relative;
+    top: -20rem;
+}
+
+#left-side {
+    position: relative;
+    top: -502px;
+    max-width: 42%;
+    float: left;
+}
+
+#right-side {
+    position: relative;
+    top: -713px;
+    max-width: 42%;
+    float: right;
+}
+
+#side-decor {
+    position: absolute;
+    width: 100%;
+}
+
+#page-section {
+    position: relative;
+    min-height: 75rem;
+    top: -13rem;
+    margin: auto;
+    width: 60%;
+}
+
+/* Logo and Menu */
+
+#logo-and-menu {
+    position: absolute;
+    top: 51rem;
+    z-index: 2;
+}
+
+#menu {
+    text-align: center;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: bold;
+}
+
+#menu li a {
+    text-decoration: none;
+    font-size: 24px;
+    color: #F2E0B9;
+    text-transform: uppercase;
+    transition: color .3s linear;
+}
+
+#menu li a:hover {
+    color: #B11F24;
+}
+
+.menu li {
+    display: inline-block;
+    margin-right: 15px;
+}
+
+#coyotehood-logo {
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    max-width: 50%;
+}
+
+/* Northern Lights */
+
+#northern-lights {
+    position: absolute;
+    top: 0;
+}
+
+.auroraLine {
+    position: absolute;
+    display: inline-block;
+    background: linear-gradient(180deg, rgba(88,254,166,0) 0%, rgba(88,245,254,1) 28%, rgba(88,254,166,1) 46%, rgba(0,212,255,0) 97%);
+    opacity: .6;
+}
+
+/* Widget Section */
+
+li {
+    list-style-type: none;
+}
+
+#sidebar {
+    display: flex;
+    margin-bottom: 1rem;
+    font-family: 'Noto Sans', sans-serif;
+    font-style: italic;
+    font-size: 20px;
+}
+
+#sidebar a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #58595B; 
+    transition: color .3s linear;
+}
+
+#sidebar a:hover {
+    color: #B11F24;
+}
+
+.widget {
+    flex: 1;
+    text-align: center;
+}
+
+.hidden {
+    display: none;
+}
+
+#flagImage {
+    display: inline;
+    width: 5rem;
+}
+
+#footer {
+    position: absolute;
+    margin-top: 2rem;
+
+}
+
+/* Main Section */
+
+#page-section {
+    font-family: 'Noto Serif', serif;
+    font-size: 19px;
+    line-height: 23px;
+}
+
+#page-section img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Text */
+
+h2 {
+    font-size: 35px;
+    line-height: 40px;
+    font-weight: 500;
+    font-family: 'Noto Sans', sans-serif;
+    margin-top: 1.5rem;
+    margin-bottom: 2.5rem;
+}
+
+
+h3 {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 25px;
+    line-height: 30px;
+    font-weight: 500;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+p {
+    font-size: 19px;
+    line-height: 25px;
+    margin-bottom: 1rem;
+}
+
+a {
+    font-weight: bold;
+    color: #0258CA;
+    text-decoration-color: #342365;
+    text-decoration-thickness: 3px;
+	transition: color .3s linear;
+}
+
+a:hover {
+    color: #B11F24;
+}
+
+button[type=submit] {
+    background-color: #B11F24 !important;
+    font-family: 'Noto-Sans', sans-serif !important;
+    color: #fff !important;
+    border: none !important;
+    font-size: 19px !important;
+    transition: background-color .3s linear;
+}
+
+button[type=submit]:hover {
+    background-color: #2E9FAB !important;
+}
+
+#not-found {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 80px;
+    font-weight: 100;
+}
+
+/* Shop Section */
+
+.woocommerce ul.products li.product, 
+.woocommerce-page ul.products li.product {
+    margin: 0 8px 2rem 0 !important;
+    width: 32% !important;
+}
+
+.woocommerce ul.products li.first, 
+.woocommerce-page ul.products li.first {
+    clear: none !important;
+}
+
+.woocommerce ul.products li.product a img {
+    margin: 0 0 0 !important;
+}
+
+.add_to_cart_button {
+    display: none !important;
+}
+
+.woocommerce ul.products li.product .woocommerce-loop-category__title, 
+.woocommerce ul.products li.product .woocommerce-loop-product__title, 
+.woocommerce ul.products li.product h3 {
+    padding: 5px 0;
+    font-size: 17px;
+    font-family: 'Noto Sans';
+    color: #58595B;
+    transition: color .3s linear;
+}
+
+.woocommerce ul.products li.product .woocommerce-loop-category__title:hover, 
+.woocommerce ul.products li.product .woocommerce-loop-product__title:hover, 
+.woocommerce ul.products li.product h3:hover {
+    color: #B11F24;
+}
+
+.woocommerce ul.products li.product .price {
+    color: #58595B !important;
+    font-family: 'Noto Sans', sans-serif !important;
+    font-weight: 400 !important;
+    margin-bottom: 0 !important;
+    font-size: 17px !important;
+}
+
+.woocommerce ul.products li.product .woocommerce-loop-category__title, 
+.woocommerce ul.products li.product .woocommerce-loop-product__title, 
+.woocommerce ul.products li.product h3 {
+    padding: 5px 0 0 !important;
+}
+
+.woocommerce div.product .product_title {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 40px;
+    line-height: 44px;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+.woocommerce div.product p.price, 
+.woocommerce div.product span.price {
+    color: #58595B !important;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 20px !important;
+    font-weight: 600;
+}
+
+.related {
+    clear: both;
+}
+
+.product_meta {
+    display: none;
+}
+
+.quantity {
+    display: none;
+}
+
+.woocommerce div.product form.cart {
+    margin-bottom: 8rem !important;
+}
+
+.woocommerce #respond input#submit.alt, 
+.woocommerce a.button.alt, 
+.woocommerce button.button.alt, 
+.woocommerce input.button.alt {
+    background-color: #2662a6;
+    transition: background-color .3s linear !important;
+}
+
+.woocommerce #respond input#submit.alt:hover, 
+.woocommerce a.button.alt:hover, 
+.woocommerce button.button.alt:hover, 
+.woocommerce input.button.alt:hover {
+    background-color: #B11F24;
+}
+
+.summary li {
+    list-style-type: disc;
+    margin: 2rem;
+}
+
+strong {
+    font-weight: 600;
+}
+
+td.actions {
+    display: none;
+}
+
+td.product-thumbnail img {
+    height: 9rem !important;
+    width: auto !important;
+}
+
+.woocommerce-form-coupon-toggle {
+    display: none;
+}
+
+p.stock.in-stock {
+    display: none;
+}
+
+.checkout input {
+    height: 2rem;
+}
+
+.col-1 h3,
+.col-2 h3 {
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 900;
+    margin-bottom: 2rem;
+}
+
+h3#order_review_heading {
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 900;
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}
+
+p#billing_company_field {
+    display: none;
+}
+
+form.woocommerce-cart-form {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.woocommerce form .form-row label {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    font-size: 17px;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.woocommerce form .form-row input.input-text, 
+.woocommerce form .form-row textarea {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 17px;
+}
+
+div#order_review {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.cart_totals.calculated_shipping {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+#add_payment_method .wc-proceed-to-checkout a.checkout-button, 
+.woocommerce-cart .wc-proceed-to-checkout a.checkout-button, 
+.woocommerce-checkout .wc-proceed-to-checkout a.checkout-button {
+    padding: .5rem 1em;
+    font-size: 24px;
+}
+
+.woocommerce-terms-and-conditions-wrapper {
+    display: none;
+}
